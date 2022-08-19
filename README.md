@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alphablue07
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Binar Academy
+- 🌱 I’m currently learning Fullstack Web Engineering at Binar Academy
 - 💞️ I’m looking to collaborate on Front-End Development
 - 📫 How to reach me ...
 
